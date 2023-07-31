@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+margin: 10px;
+padding: 0;
+}
+
+body {
+    
+background: rgba(0, 0, 0, .5) url(kerala.jpg) ;
+background-size: cover;
+align-items: center;
+justify-content: center;
+background-blend-mode: darken;
+width: 100%;
+
+   
+ 
+
+}
+
+.bg {
+    background-color: rgb(48, 65, 48);
+    border-radius: 10px;
+   
+   
+    
+}
+h1 {
+    background: rgb(48, 61, 71);
+    border-radius: 30px;
+    max-width: 100%;
+  overflow: hidden;
+  ;
+  
+}
+
+img{
+ display: flex; 
+padding: 6px;
+max-width: 100%;
+box-shadow: 5px 5px 26px black ;
+ 
+
+
+}
+
+.text h1{
+    display: flex;
+}
+
+
+.bbq {
+    max-width: 100%;
+    border-radius: 30px;
+}
+
+.text {
+
+    background-color: rgba(255, 255, 255, 0.034);
+    border-radius: 50px;
+}
